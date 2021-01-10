@@ -1,3 +1,4 @@
+//use of reduce 
 from functools import reduce
 l=[5,6,1,3,2]
 print(l)
